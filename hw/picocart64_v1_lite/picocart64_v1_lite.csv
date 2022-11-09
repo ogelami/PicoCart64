@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+"Conn_01x04","J1","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","C390680"
+"Conn_01x07","J2","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical","C225482"
+"BSS84","Q1","Package_TO_SOT_SMD:SOT-23","C114481"
+"100k","R1","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","C22936"
