@@ -1,6 +1,6 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-"J1","Conn_01x04","PinHeader_1x04_P2.54mm_Vertical",114.510000,-95.000000,0.000000,top
-"J2","Conn_01x07","PinHeader_1x07_P2.54mm_Vertical",115.785000,-67.060000,0.000000,top
+"J1","Conn_01x04","PinHeader_1x04_P2.54mm_Vertical",110.705000,-95.000000,90.000000,top
+"J2","Conn_01x07","PinHeader_1x07_P2.54mm_Vertical",108.165000,-67.060000,90.000000,top
 "J3","Conn_01x02","PinHeader_1x08_P2.54mm_Vertical",105.625000,-89.920000,90.000000,top
 "J4","Conn_01x01","PinHeader_1x01_P2.54mm_Vertical",197.939990,-65.199997,180.000000,top
 "J5","Conn_01x01","PinHeader_1x01_P2.54mm_Vertical",186.300000,-71.550000,180.000000,top
